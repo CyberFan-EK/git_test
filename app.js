@@ -5,3 +5,5 @@ let c = a + b;
 const arr = (time) => {
   return time;
 };
+
+console.log("first");
