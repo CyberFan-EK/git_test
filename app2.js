@@ -1,2 +1,2 @@
 const w = "Hello World";
-const zieit = "Best univer";
+const zieit = " The best univer";
